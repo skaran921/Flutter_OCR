@@ -1,4 +1,4 @@
-# project01
+# OCR in Flutter
 
 A new Flutter project.
 
